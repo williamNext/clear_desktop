@@ -9,12 +9,12 @@ Baixe os arquivos como indicado na imagem e faça o unzip no seu computador:
 
 ![image](https://github.com/user-attachments/assets/bf1fcc6c-b03e-4625-a857-efe622e43a82)
 
-caso não tenha pytrhon instalado
+caso não tenha python instalado:
 		botão direito em "install_py.bat" -> "executar como administrador"
 
-depois do processo de intalação do python for finalizada:
+depois que processo de instalação do python for finalizada:
 
-No diretório que o arquivo main.py esta localizado, clicar em um espaço vazio do 			diretorio e selecionar a opção "abrir no terminal"
+No diretório onde o arquivo main.py esta localizado, clicar em um espaço vazio do 			diretório e selecionar a opção "abrir no terminal"
 
 Aberto o terminal copie e cole este comando e aperte enter
 
