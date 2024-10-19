@@ -5,6 +5,10 @@ Script em python que move todos os arquivos do desktop para uma pasta com o nome
 
 # como utilizar
 
+Baixe os arquivos como indicado na imagem e faça o unzip no seu computador:
+
+![image](https://github.com/user-attachments/assets/bf1fcc6c-b03e-4625-a857-efe622e43a82)
+
 caso não tenha pytrhon instalado
 		botão direito em "install_py.bat" -> "executar como administrador"
 
